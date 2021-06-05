@@ -1,17 +1,18 @@
 ### Hello! 
 
-About me 👋
+### About me 👋
 My name is Jonas
 
-Knowledge 🚀
+### Knowledge 🚀
 
-Programming Languages:
+### Programming Languages:
 Java, PHP, Bash Shell
 
-Frameworks:
+### Frameworks:
 Spring, JUnit
 
-Version Control: Git
+### Version Control: 
+Git
 
 
 
