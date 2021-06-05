@@ -1,4 +1,37 @@
-### Hi there 👋
+### Hallo 👋
+
+About me 👋
+My name is Jonas
+
+Knowledge 🚀
+
+Programming Languages:
+Java, PHP, Bash Shell
+
+Frameworks:
+Spring, JUnit
+
+Version Control: Git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **jonasermert/jonasermert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
