@@ -4,10 +4,10 @@
 My name is Jonas
 
 ### How to reach me 📫
-*[Facebook](https://www.facebook.com/JonasErmertBLB/)
-*[Instagram](https://www.instagram.com/ermert.jonas/)
-*[LinkedIn](https://www.linkedin.com/in/jonas-ermert-b5266b182/)
-*[Stackoverflow](https://stackoverflow.com/users/5328569/jonas-e)
+- [Facebook](https://www.facebook.com/JonasErmertBLB/)
+- [Instagram](https://www.instagram.com/ermert.jonas/)
+- [LinkedIn](https://www.linkedin.com/in/jonas-ermert-b5266b182/)
+- [Stackoverflow](https://stackoverflow.com/users/5328569/jonas-e)
 
 
 ### Ask me about 💬
