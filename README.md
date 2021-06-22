@@ -4,7 +4,7 @@
 My name is Jonas
 
 ### How to reach me 📫
-(https://www.instagram.com/ermert.jonas/ "Instagram")
+(https://www.instagram.com/ermert.jonas/)
 
 
 ### Ask me about 💬
