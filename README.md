@@ -3,6 +3,13 @@
 ### About me 👋
 My name is Jonas
 
+### How to reach me 📫
+Instagram
+LinkedIn
+
+### Ask me about 💬
+Java
+
 ### Knowledge 🚀
 
 ### Programming Languages:
