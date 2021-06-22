@@ -5,6 +5,7 @@ My name is Jonas
 
 ### How to reach me 📫
 [Instagram](https://www.instagram.com/ermert.jonas/)
+[LinkedIn](https://www.linkedin.com/in/jonas-ermert-b5266b182/)
 
 
 ### Ask me about 💬
