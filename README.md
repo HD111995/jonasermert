@@ -4,8 +4,8 @@
 My name is Jonas
 
 ### How to reach me 📫
-Instagram
-LinkedIn
+(https://www.instagram.com/ermert.jonas/ "Instagram")
+
 
 ### Ask me about 💬
 Java
