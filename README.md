@@ -8,6 +8,7 @@ My name is Jonas
 - [Instagram](https://www.instagram.com/ermert.jonas/)
 - [LinkedIn](https://www.linkedin.com/in/jonas-ermert-b5266b182/)
 - [Stackoverflow](https://stackoverflow.com/users/5328569/jonas-e)
+- [CodePen](https://codepen.io/jonasermert/)
 
 
 ### Ask me about 💬
