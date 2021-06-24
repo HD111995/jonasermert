@@ -26,7 +26,7 @@ Git
 
 
 ### Github Stats
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=radical)
+![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
 
 
 
