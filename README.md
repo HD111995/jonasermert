@@ -16,7 +16,7 @@ My name is Jonas
 - [CodePen](https://codepen.io/jonasermert/)
 
 ### Learn more about me here ⬇
-Website: Work in progress
+Work in progress
 
 ### Ask me about 💬
 Java
