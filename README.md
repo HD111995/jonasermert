@@ -16,7 +16,7 @@ My name is Jonas
 
 
 ### Ask me about 💬
-Java
+
 
 ### Knowledge 🚀
 
