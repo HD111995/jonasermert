@@ -22,7 +22,7 @@ Java
 Java, PHP, Bash Shell
 
 ### Frameworks:
-Spring, JUnit
+Spring, Maven, JUnit
 
 ### Version Control: 
 Git
