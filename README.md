@@ -4,6 +4,7 @@
 My name is Jonas
 
 🌱 I’m currently learning Web-Development Full-Stack @ SuperCode Bootcamp
+
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
 
 ### How to reach me 📫
