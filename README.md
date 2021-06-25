@@ -12,7 +12,7 @@ My name is Jonas
 
 
 ### Ask me about 💬
-Java ![Java](java.png)
+Java
 
 ### Knowledge 🚀
 
@@ -25,6 +25,8 @@ Spring, JUnit
 ### Version Control: 
 Git
 
+### Tools
+IntelliJ IDEA, Visual Studio Code
 
 ### Github Stats
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
