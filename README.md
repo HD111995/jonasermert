@@ -39,7 +39,7 @@ IntelliJ IDEA, Visual Studio Code, SmartGit, Adobe Photoshop CS4, Microsoft Offi
 
 ### 📊 This Week I Spent My Time On:
 Web-Development Full-Stack @ SuperCode Bootcamp
-Java
+
 
 
 
