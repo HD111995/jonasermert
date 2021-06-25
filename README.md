@@ -32,7 +32,7 @@ Spring, JUnit
 ### Version Control: 
 Git
 
-### Tools
+### Tools :computer:
 IntelliJ IDEA, Visual Studio Code, SmartGit, Maven, Adobe Photoshop CS4, Microsoft Office 2019
 
 ### Github Stats
