@@ -1,4 +1,4 @@
-### Hello! 
+### Hello! :smiley:
 
 ### About me 👋
 My name is Jonas
