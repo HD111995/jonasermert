@@ -9,14 +9,9 @@ My name is Jonas
 
 ### How to reach me 📫
 
-<a href="https://www.facebook.com/JonasErmertBLB/"><img src="facebook.svg" alt="facebook" width="25"/>  
-
-
-[Facebook](https://www.facebook.com/JonasErmertBLB/)
-[Instagram](https://www.instagram.com/ermert.jonas/)
-[LinkedIn](https://www.linkedin.com/in/jonas-ermert-b5266b182/)
-[Stackoverflow](https://stackoverflow.com/users/5328569/jonas-e)
-[CodePen](https://codepen.io/jonasermert/)
+<a href="https://www.facebook.com/JonasErmertBLB/"><img src="facebook.svg" alt="facebook" width="25"/>
+<a href="https://www.instagram.com/ermert.jonas/"><img src="instagram.svg" alt="instagram" width="25"/> 
+<a href="https://www.linkedin.com/in/jonas-ermert-b5266b182/"><img src="linkedin.svg" alt="linkedin" width="25"/>
 
 ### Learn more about me here ⬇
 Work in progress :construction_worker:
