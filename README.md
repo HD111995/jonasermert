@@ -10,6 +10,9 @@ My name is Jonas
 ### How to reach me 📫
 
 [![facebook](https://github.com/jonasermert/jonasermert/blob/main/facebook.svg)](https://www.facebook.com/JonasErmertBLB/)
+<img src="facebook.svg" alt="facebook" width="50"/>
+
+
 [Instagram](https://www.instagram.com/ermert.jonas/)
 [LinkedIn](https://www.linkedin.com/in/jonas-ermert-b5266b182/)
 [Stackoverflow](https://stackoverflow.com/users/5328569/jonas-e)
