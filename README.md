@@ -3,7 +3,7 @@
 ### About me 👋
 My name is Jonas
 
-🌱 I’m currently learning HTML, CSS, JavaScript
+🌱 I’m currently learning HTML, CSS, JavaScript @ SuperCode GmbH & Co. KG
 
 ### How to reach me 📫
 - [Facebook](https://www.facebook.com/JonasErmertBLB/)
