@@ -40,7 +40,36 @@ IntelliJ IDEA, Visual Studio Code, SmartGit, Adobe Photoshop CS4, Microsoft Offi
 ### 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
+name: Waka Readme
 
+on:
+  schedule:
+    # Runs at 11am UTC
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: windows
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.a2f0d280-bfde-431d-800f-a92bf2419d84 }}
+          GH_TOKEN: ${{ secrets.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 }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          LOCALE
+          COMMIT_BY_ME: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "False"
 <!--END_SECTION:waka-->
 
 
