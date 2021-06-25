@@ -9,7 +9,7 @@ My name is Jonas
 
 ### How to reach me 📫
 
-[![facebook](https://github.com/jonasermert/jonasermert/blob/main/facebook.svg <img src="facebook.svg" alt="facebook" width="50"/>)](https://www.facebook.com/JonasErmertBLB/)
+[![facebook](<img src="facebook.svg" alt="facebook" width="50"/>)](https://www.facebook.com/JonasErmertBLB/)
 
 
 
