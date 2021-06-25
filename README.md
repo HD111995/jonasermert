@@ -3,6 +3,8 @@
 ### About me 👋
 My name is Jonas
 
+🌱 I’m currently learning HTML, CSS, JavaScript
+
 ### How to reach me 📫
 - [Facebook](https://www.facebook.com/JonasErmertBLB/)
 - [Instagram](https://www.instagram.com/ermert.jonas/)
