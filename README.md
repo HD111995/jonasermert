@@ -13,7 +13,7 @@ My name is Jonas
 <a href="https://www.instagram.com/ermert.jonas/"><img src="instagram.svg" alt="instagram" width="25"/> 
 <a href="https://www.linkedin.com/in/jonas-ermert-b5266b182/"><img src="linkedin.svg" alt="linkedin" width="25"/>
   
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonasermert%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
 ### Learn more about me here ⬇
 Work in progress :construction_worker:
