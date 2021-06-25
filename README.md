@@ -12,7 +12,7 @@ My name is Jonas
 
 
 ### Ask me about 💬
-Java
+Java ![Java](java.png)
 
 ### Knowledge 🚀
 
