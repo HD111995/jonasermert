@@ -8,7 +8,7 @@ My name is Jonas
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
 
 ### How to reach me 📫
-- [Facebook](https://www.facebook.com/JonasErmertBLB/)
+- ![Facebook](https://github.com/[jonasermert]/[jonasermert]/blob/[branch]/facebook.svg?raw=true) [Facebook](https://www.facebook.com/JonasErmertBLB/)
 - [Instagram](https://www.instagram.com/ermert.jonas/)
 - [LinkedIn](https://www.linkedin.com/in/jonas-ermert-b5266b182/)
 - [Stackoverflow](https://stackoverflow.com/users/5328569/jonas-e)
