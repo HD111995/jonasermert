@@ -12,6 +12,8 @@ My name is Jonas
 <a href="https://www.facebook.com/JonasErmertBLB/"><img src="facebook.svg" alt="facebook" width="25"/>
 <a href="https://www.instagram.com/ermert.jonas/"><img src="instagram.svg" alt="instagram" width="25"/> 
 <a href="https://www.linkedin.com/in/jonas-ermert-b5266b182/"><img src="linkedin.svg" alt="linkedin" width="25"/>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2jonasermert%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Learn more about me here ⬇
 Work in progress :construction_worker:
