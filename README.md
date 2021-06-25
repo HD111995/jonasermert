@@ -37,10 +37,10 @@ IntelliJ IDEA, Visual Studio Code, SmartGit, Maven, Adobe Photoshop CS4, Microso
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
 
 
-### 📊 This Week I Spent My Time On:
+### :clock1030: This Week I Spent My Time On:
 Web-Development Full-Stack @ SuperCode Bootcamp
 
-
+### :bar_chart: Statistics 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonasermert%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
 
