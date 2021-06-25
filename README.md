@@ -28,7 +28,7 @@ Spring, JUnit
 Git
 
 ### Tools
-IntelliJ IDEA, Visual Studio Code, SmartGit
+IntelliJ IDEA, Visual Studio Code, SmartGit, Adobe Photoshop CS4
 
 ### Github Stats
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
