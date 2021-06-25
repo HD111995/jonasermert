@@ -17,7 +17,7 @@ My name is Jonas
 
 
 ### Ask me about 💬
-Java, Soccer
+Java
 
 ### Knowledge 🚀
 
