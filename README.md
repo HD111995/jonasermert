@@ -3,9 +3,6 @@
 ### About me 👋
 My name is Jonas
 
-### Learn more about me here ⬇
-Website: Work in progress
-
 🌱 I’m currently learning Web-Development Full-Stack @ SuperCode Bootcamp
 
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
@@ -18,6 +15,8 @@ Website: Work in progress
 - [Stackoverflow](https://stackoverflow.com/users/5328569/jonas-e)
 - [CodePen](https://codepen.io/jonasermert/)
 
+### Learn more about me here ⬇
+Website: Work in progress
 
 ### Ask me about 💬
 Java
