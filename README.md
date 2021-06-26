@@ -50,7 +50,7 @@ Spring, JUnit
 <img src="intellijidea.svg" alt="intellijidea" width="40"/>
 <img src="visualstudiocode.svg" alt="visual-studio-code" width="40"/>
 <img src="eclipseide.svg" alt="eclipseide.svg" width="40"/>
-<img src="kaspersky.svg" alt="kaspersky" width="40"/>
+<img src="kaspersky.svg" alt="kaspersky" width="50"/>
 <img src="dropbox.svg" alt="dropbox" width="40"/>
 <img src="microsoft.svg" alt="windows" width="40"/>
 <img src="adobephotoshop.svg" alt="photoshop" width="40"/>
