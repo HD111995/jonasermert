@@ -46,7 +46,7 @@ Spring, JUnit
 ### Version Control: 
 <img src="git.png" alt="git" width="55"/>
 
-### Tools :computer:
+### Tools :dvd:
 <img src="intellijidea.svg" alt="intellijidea" width="40"/>
 <img src="visualstudiocode.svg" alt="visual-studio-code" width="40"/>
 <img src="kaspersky.svg" alt="kaspersky" width="40"/>
@@ -56,7 +56,7 @@ Spring, JUnit
 <img src="firefoxbrowser.svg" alt="firefox" width="40"/>
 <img src="keepassxc.svg" alt="keepass" width="40"/>
 
-### Hardware 
+### Hardware :desktop_computer:
 <img src="intel.svg" alt="intel" width="40"/>
 <img src="nvidia.svg" alt="nvidia" width="40"/>
 
