@@ -10,7 +10,7 @@ My name is Jonas
 
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
 
-⚙️ I use daily: .java, .psd
+⚙️ I use daily: .java, .psd; .html
 
 ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
