@@ -4,6 +4,9 @@
 My name is Jonas
 
 🌱 I’m currently learning Web-Development Full-Stack @ SuperCode Bootcamp (Extent: 22 weeks (5 months) / full time)
+   <img src="html5.svg" alt="html" width="50"/>
+   <img src="csswizardry.svg" alt="css" width="50"/>
+   <img src="javascript.svg" alt="javascript" width="50"/>
 
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
 
@@ -28,7 +31,10 @@ Work in progress :construction_worker:
 ### Knowledge 🚀
 
 ### Programming Languages:
-Java, PHP, Bash Shell
+<img src="java.png" alt="java" width="75"/>
+<img src="php.svg" alt="php" width="75"/>
+
+
 
 ### Frameworks:
 Spring, JUnit
