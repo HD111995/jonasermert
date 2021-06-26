@@ -39,6 +39,7 @@ Git
 ### Tools :computer:
 <img src="intellijidea.svg" alt="intellijidea" width="25"/>
 <img src="visual-studio-code.png" alt="visual-studio-code" width="25"/>
+<img src="kaspersky.svg" alt="kaspersky" width="25"/>
 
 ### Github Stats
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
