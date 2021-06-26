@@ -43,6 +43,8 @@ Git
 <img src="git.png" alt="git" width="50"/>
 <img src="dropbox.svg" alt="dropbox" width="50"/>
 <img src="microsoft.svg" alt="windows" width="50"/>
+Adobe Photoshop CS4
+SmartGit
 
 ### Github Stats
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
