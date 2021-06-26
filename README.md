@@ -10,6 +10,8 @@ My name is Jonas
 
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
 
+⚡️ Fun fact: I'm a huge fan of Harry Potter
+
 ### How to reach me 📫
 
 <a href="https://www.facebook.com/JonasErmertBLB/"><img src="facebook.svg" alt="facebook" width="30"/>
