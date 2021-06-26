@@ -26,13 +26,13 @@ My name is Jonas
 Work in progress :construction_worker:
 
 ### Ask me about 💬
-<img src="java.png" alt="java" width="40"/>
+<img src="java.png" alt="java" width="55"/>
 
 ### Knowledge 🚀
 
 ### Programming Languages:
-<img src="java.png" alt="java" width="40"/>
-<img src="php.svg" alt="php" width="40"/>
+<img src="java.png" alt="java" width="55"/>
+<img src="php.svg" alt="php" width="55"/>
 
 
 
@@ -40,7 +40,7 @@ Work in progress :construction_worker:
 Spring, JUnit
 
 ### Version Control: 
-<img src="git.png" alt="git" width="40"/>
+<img src="git.png" alt="git" width="55"/>
 
 ### Tools :computer:
 <img src="intellijidea.svg" alt="intellijidea" width="40"/>
