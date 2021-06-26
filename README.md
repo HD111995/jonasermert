@@ -23,7 +23,7 @@ My name is Jonas
 Work in progress :construction_worker:
 
 ### Ask me about 💬
-<img src="java.png" alt="java" width="25"/>
+<img src="java.png" alt="java" width="75"/>
 
 ### Knowledge 🚀
 
