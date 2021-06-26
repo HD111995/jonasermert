@@ -27,7 +27,7 @@ My name is Jonas
 <a href="https://steamcommunity.com/id/JonasErmert/"><img src="steam.svg" alt="steam" width="30"/>
 
 ### Learn more about me here ⬇
-Work in progress :construction_worker:
+Work in progress :construction_worker: 🛠️
 
 ### Ask me about 💬
 <img src="java.png" alt="java" width="55"/>
