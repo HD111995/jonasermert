@@ -34,7 +34,7 @@ Java, PHP, Bash Shell
 Spring, JUnit
 
 ### Version Control: 
-Git
+<img src="git.png" alt="git" width="50"/>
 
 ### Tools :computer:
 <img src="intellijidea.svg" alt="intellijidea" width="50"/>
