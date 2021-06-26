@@ -12,27 +12,27 @@ My name is Jonas
 
 ### How to reach me 📫
 
-<a href="https://www.facebook.com/JonasErmertBLB/"><img src="facebook.svg" alt="facebook" width="25"/>
-<a href="https://twitter.com/JonasErmert"><img src="twitter.svg" alt="twitter" width="25"/>
-<a href="https://www.instagram.com/ermert.jonas/"><img src="instagram.svg" alt="instagram" width="25"/> 
-<a href="https://www.linkedin.com/in/jonas-ermert-b5266b182/"><img src="linkedin.svg" alt="linkedin" width="25"/>
-<a href="https://www.twitch.tv/jonasermert"><img src="twitch.svg" alt="twitch" width="25"/>
-<a href="https://www.tumblr.com/blog/jonasermert"><img src="tumblr.svg" alt="tumblr" width="25"/>
-<a href="https://www.youtube.com/channel/UCJZhignMtLcP6F_HcSH_ZWA"><img src="youtube.svg" alt="youtube" width="25"/>
-<a href="https://www.reddit.com"><img src="reddit.svg" alt="reddit" width="25"/>
-<a href="https://steamcommunity.com/id/JonasErmert/"><img src="steam.svg" alt="steam" width="25"/>
+<a href="https://www.facebook.com/JonasErmertBLB/"><img src="facebook.svg" alt="facebook" width="30"/>
+<a href="https://twitter.com/JonasErmert"><img src="twitter.svg" alt="twitter" width="30"/>
+<a href="https://www.instagram.com/ermert.jonas/"><img src="instagram.svg" alt="instagram" width="30"/> 
+<a href="https://www.linkedin.com/in/jonas-ermert-b5266b182/"><img src="linkedin.svg" alt="linkedin" width="30"/>
+<a href="https://www.twitch.tv/jonasermert"><img src="twitch.svg" alt="twitch" width="30"/>
+<a href="https://www.tumblr.com/blog/jonasermert"><img src="tumblr.svg" alt="tumblr" width="30"/>
+<a href="https://www.youtube.com/channel/UCJZhignMtLcP6F_HcSH_ZWA"><img src="youtube.svg" alt="youtube" width="30"/>
+<a href="https://www.reddit.com"><img src="reddit.svg" alt="reddit" width="30"/>
+<a href="https://steamcommunity.com/id/JonasErmert/"><img src="steam.svg" alt="steam" width="30"/>
 
 ### Learn more about me here ⬇
 Work in progress :construction_worker:
 
 ### Ask me about 💬
-<img src="java.png" alt="java" width="75"/>
+<img src="java.png" alt="java" width="40"/>
 
 ### Knowledge 🚀
 
 ### Programming Languages:
-<img src="java.png" alt="java" width="75"/>
-<img src="php.svg" alt="php" width="75"/>
+<img src="java.png" alt="java" width="40"/>
+<img src="php.svg" alt="php" width="40"/>
 
 
 
@@ -40,17 +40,17 @@ Work in progress :construction_worker:
 Spring, JUnit
 
 ### Version Control: 
-<img src="git.png" alt="git" width="25"/>
+<img src="git.png" alt="git" width="40"/>
 
 ### Tools :computer:
-<img src="intellijidea.svg" alt="intellijidea" width="50"/>
-<img src="visual-studio-code.png" alt="visual-studio-code" width="50"/>
-<img src="kaspersky.svg" alt="kaspersky" width="50"/>
-<img src="git.png" alt="git" width="50"/>
-<img src="dropbox.svg" alt="dropbox" width="50"/>
-<img src="microsoft.svg" alt="windows" width="50"/>
-<img src="adobephotoshop.svg" alt="photoshop" width="50"/>
-<img src="firefoxbrowser.svg" alt="firefox" width="50"/>
+<img src="intellijidea.svg" alt="intellijidea" width="40"/>
+<img src="visual-studio-code.png" alt="visual-studio-code" width="40"/>
+<img src="kaspersky.svg" alt="kaspersky" width="40"/>
+<img src="git.png" alt="git" width="40"/>
+<img src="dropbox.svg" alt="dropbox" width="40"/>
+<img src="microsoft.svg" alt="windows" width="40"/>
+<img src="adobephotoshop.svg" alt="photoshop" width="40"/>
+<img src="firefoxbrowser.svg" alt="firefox" width="40"/>
 
 
 ### Github Stats
