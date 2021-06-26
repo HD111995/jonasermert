@@ -31,6 +31,8 @@ Work in progress :construction_worker: 🛠️
 
 ### Ask me about 💬
 <img src="java.png" alt="java" width="55"/>
+   
+
 
 ### Knowledge 🚀
 
@@ -63,12 +65,19 @@ Spring, JUnit
 ### This Week I Spent My Time On :clock1030:
 Web-Development Full-Stack @ SuperCode Bootcamp
 
+   
+### Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonas_ermert&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)  
+   
+   
+   
+   
+   
 ### Statistics :bar_chart:
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonasermert%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
-### Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonas_ermert&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 
 
