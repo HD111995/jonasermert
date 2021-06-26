@@ -14,6 +14,7 @@ My name is Jonas
 <a href="https://www.linkedin.com/in/jonas-ermert-b5266b182/"><img src="linkedin.svg" alt="linkedin" width="25"/>
 <a href="https://www.twitch.tv/jonasermert"><img src="twitch.svg" alt="linkedin" width="25"/>
 <a href="https://www.reddit.com"><img src="reddit.svg" alt="reddit" width="25"/>
+<a href="https://steamcommunity.com/id/JonasErmert/"><img src="steam.svg" alt="steam" width="25"/>
 
 ### Learn more about me here ⬇
 Work in progress :construction_worker:
