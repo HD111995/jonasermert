@@ -66,7 +66,7 @@ Spring, JUnit
 Web-Development Full-Stack @ SuperCode Bootcamp
 
    
-### Spotify
+### Spotify :musical_note:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonas_ermert&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)  
    
