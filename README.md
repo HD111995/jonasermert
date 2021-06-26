@@ -40,10 +40,10 @@ Work in progress :construction_worker: 🛠️
 <img src="java2.svg" alt="java" width="55"/>
 
 ### Frameworks:
-<img src="spring.svg" alt="spring" width="60"/>
+<img src="spring.svg" alt="spring" width="65"/>
    
 ### Technologies
-<img src="docker.svg" alt="docker" width="65"/>
+<img src="docker.svg" alt="docker" width="70"/>
 
 ### Version Control: 
 <img src="git.png" alt="git" width="55"/>
