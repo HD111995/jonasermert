@@ -23,7 +23,7 @@ My name is Jonas
 Work in progress :construction_worker:
 
 ### Ask me about 💬
-Java
+<img src="java.png" alt="java" width="25"/>
 
 ### Knowledge 🚀
 
@@ -37,7 +37,7 @@ Spring, JUnit
 Git
 
 ### Tools :computer:
-<img src="intellijidea.svg" alt="instagram" width="25"/>
+<img src="intellijidea.svg" alt="intellijidea" width="25"/>
 <img src="visual-studio-code.png" alt="visual-studio-code" width="25"/>
 
 ### Github Stats
