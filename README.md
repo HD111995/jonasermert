@@ -56,6 +56,9 @@ Spring, JUnit
 <img src="firefoxbrowser.svg" alt="firefox" width="40"/>
 <img src="keepassxc.svg" alt="keepass" width="40"/>
 
+### Hardware 
+<img src="intel.svg" alt="intel" width="40"/>
+<img src="nvidia.svg" alt="nvidia" width="40"/>
 
 ### Github Stats
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
