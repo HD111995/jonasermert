@@ -40,6 +40,7 @@ Git
 <img src="intellijidea.svg" alt="intellijidea" width="50"/>
 <img src="visual-studio-code.png" alt="visual-studio-code" width="50"/>
 <img src="kaspersky.svg" alt="kaspersky" width="50"/>
+<img src="git.png" alt="git" width="50"/>
 
 ### Github Stats
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
