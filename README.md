@@ -37,7 +37,7 @@ Spring, JUnit
 Git
 
 ### Tools :computer:
-IntelliJ IDEA, Visual Studio Code, SmartGit, Maven, Adobe Photoshop CS4, Microsoft Office 2019
+<img src="intellijidea.svg" alt="instagram" width="25"/>
 
 ### Github Stats
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
