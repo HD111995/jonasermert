@@ -10,6 +10,8 @@ My name is Jonas
 
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
 
+⚙️ I use daily: .java
+
 ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 ### How to reach me 📫
