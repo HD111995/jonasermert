@@ -30,14 +30,14 @@ My name is Jonas
 Work in progress :construction_worker: 🛠️
 
 ### Ask me about 💬
-<img src="java.png" alt="java" width="55"/>
+<img src="java.png" alt="java" width="60"/>
    
 
 
 ### Knowledge 🚀
 
 ### Programming Languages:
-<img src="java.png" alt="java" width="55"/>
+<img src="java.png" alt="java" width="60"/>
 <img src="php.svg" alt="php" width="55"/>
 
 ### Frameworks:
