@@ -63,7 +63,6 @@ Work in progress :construction_worker: 🛠️
 ### Hardware :desktop_computer:
 <img src="intel.svg" alt="intel" width="40"/>
 <img src="nvidia.svg" alt="nvidia" width="40"/>
-<img src="razer.svg" alt="razer" width="40"/>
 <img src="jbl.svg" alt="jbl" width="40"/>
 
 ### Github Stats
