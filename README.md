@@ -70,6 +70,7 @@ Work in progress :construction_worker: 🛠️
    
 
 ![Jonas's Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
+![Jonas's Trophies](https://github-profile-trophy.vercel.app/?username=jonasermert&rank=S)
 
 
 ### This Week I Spent My Time On :clock1030:
