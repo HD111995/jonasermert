@@ -69,8 +69,8 @@ Work in progress :construction_worker: 🛠️
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
    
 
-![Jonas's Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
-![Jonas's Trophies](https://github-profile-trophy.vercel.app/?username=jonasermert&rank=S)
+![Jonas's Followers Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
+![Jonas's Rank Trophy](https://github-profile-trophy.vercel.app/?username=jonasermert&rank=S)
 
 
 ### This Week I Spent My Time On :clock1030:
