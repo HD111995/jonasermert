@@ -76,7 +76,8 @@ Work in progress :construction_worker: 🛠️
 ### This Week I Spent My Time On :clock1030:
 Web-Development Full-Stack @ SuperCode Bootcamp
 
-   
+### I really like music 🎧
+
 ### Spotify :musical_note:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonas_ermert&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)  
