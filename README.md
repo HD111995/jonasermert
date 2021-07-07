@@ -67,6 +67,9 @@ Work in progress :construction_worker: 🛠️
 
 ### Github Stats
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=default)
+   
+
+https://github-profile-trophy.vercel.app/?username=jonasermert&title=Stars,Followers
 
 
 ### This Week I Spent My Time On :clock1030:
