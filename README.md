@@ -12,6 +12,8 @@ My name is Jonas
 
 ⚙️ I use daily: .java, .psd, .html
 
+:calendar: In my free time, I, love to cook, play guitar and soccer 
+
 ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 ### How to reach me 📫
