@@ -3,7 +3,7 @@
 ### About me 👋
 My name is Jonas
 
-🌱 I’m currently learning Web-Development Full-Stack @ SuperCode Bootcamp (Extent: 22 weeks (5 months) / full time)
+🌱 I’m currently learning Java
    <img src="html5.svg" alt="html" width="30"/>
    <img src="csswizardry.svg" alt="css" width="30"/>
    <img src="javascript.svg" alt="javascript" width="30"/>
@@ -78,7 +78,7 @@ Work in progress :construction_worker: 🛠️
 
 
 ### This Week I Spent My Time On :clock1030:
-Web-Development Full-Stack @ SuperCode Bootcamp
+Java Spring Thymeleaf Web App
 
 ### I really like music 🎧
 
