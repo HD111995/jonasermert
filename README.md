@@ -4,9 +4,6 @@
 My name is Jonas
 
 🌱 I’m currently learning Java
-   <img src="html5.svg" alt="html" width="30"/>
-   <img src="csswizardry.svg" alt="css" width="30"/>
-   <img src="javascript.svg" alt="javascript" width="30"/>
 
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
 
