@@ -5,7 +5,7 @@ My name is Jonas
 
 🌱 I’m currently in a Fullstack Web Development Bootcamp
 
-📡 Once finished I'd like to find a job as Web Developer
+📡 Once finished I'd like to find a job as Web or Java Developer
 
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
 
