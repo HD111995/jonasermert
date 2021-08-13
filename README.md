@@ -3,9 +3,9 @@
 ### About me 👋
 My name is Jonas
 
-🌱 I’m currently in a Fullstack Web Development Bootcamp @supercode-de
+🌱 I’m currently in a Fullstack Web Development Bootcamp
 
-📡 Once finished I'd like to find a job 
+📡 Once finished I'd like to find a job as Web Developer
 
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
 
