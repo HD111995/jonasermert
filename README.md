@@ -55,8 +55,6 @@ Work in progress :construction_worker: 🛠️
 ### Content of Bootcamp
 <img src="HTML5.svg" alt="HTML5" width="60"/> <img src="CSS.svg" alt="CSS" width="60"/> <img src="JavaScript.svg" alt="JavaScript" width="60"/> <img src="React.svg" alt="React" width="60"/>
    
-   
-
 ### Tools :dvd:
 <img src="intellijidea.svg" alt="intellijidea" width="40"/>
 <img src="visualstudiocode.svg" alt="visual-studio-code" width="40"/>
