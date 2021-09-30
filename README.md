@@ -46,13 +46,13 @@ Work in progress :construction_worker: 🛠️
 ### Frameworks:
 <img src="spring.svg" alt="spring" width="65"/>
    
-### Technologies
+### Technologies:
 <img src="docker.svg" alt="docker" width="70"/>
 
 ### Version Control: 
 <img src="git.png" alt="git" width="55"/>
    
-### Content of Bootcamp
+### Content of Bootcamp:
 <img src="HTML5.svg" alt="HTML5" width="60"/> <img src="CSS.svg" alt="CSS" width="60"/> <img src="JavaScript.svg" alt="JavaScript" width="75"/> <img src="React.svg" alt="React" width="60"/>
    
 ### Tools :dvd:
