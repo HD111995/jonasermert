@@ -5,7 +5,7 @@ My name is <b>Jonas</b>
 
 🌱 I’m currently doing the Fullstack Web Development Bootcamp @ SuperCode GmbH (22 Weeks until November 2021)
    
-   <img src="HTML5.svg" alt="HTML5" width="55"/> <img src="CSS.svg" alt="CSS" width="55"/> <img src="JavaScript.svg" alt="JavaScript" width="55"/> <img src="React.svg" alt="React" width="55"/>
+   <img src="HTML5.svg" alt="HTML5" width="60"/> <img src="CSS.svg" alt="CSS" width="60"/> <img src="JavaScript.svg" alt="JavaScript" width="60"/> <img src="React.svg" alt="React" width="60"/>
 
 📡 Once finished I'd like to find a job as Web, Java or Fullstack Developer
 
