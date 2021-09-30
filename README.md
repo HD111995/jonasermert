@@ -4,6 +4,8 @@
 My name is <b>Jonas</b>
 
 🌱 I’m currently doing the Fullstack Web Development Bootcamp @ SuperCode GmbH (22 Weeks until November 2021)
+   <img src="HTML5.svg" alt="HTML5" width="55"/>
+   
 
 📡 Once finished I'd like to find a job as Web, Java or Fullstack Developer
 
