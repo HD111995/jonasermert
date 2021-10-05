@@ -29,6 +29,10 @@ My name is <b>Jonas</b>
 
 ### Learn more about me here ⬇
 Work in progress :construction_worker: 🛠️
+   
+### Latest Blog Posts
+   
+
 
 ### Ask me about 💬
 <img src="java2.svg" alt="java" width="55"/>
