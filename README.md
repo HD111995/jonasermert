@@ -3,7 +3,7 @@
 ### About me 👋
 My name is <b>Jonas</b>
 
-🌱 I’m currently doing the Fullstack Web Development Bootcamp @ SuperCode GmbH (@supercode-de) (22 Weeks until November 2021)
+🌱 I’m currently doing the Fullstack Web Development Bootcamp @ SuperCode GmbH (22 Weeks until November 2021)
 
 📡 Once finished I'd like to find a job as Web, Java or Fullstack Developer
 
