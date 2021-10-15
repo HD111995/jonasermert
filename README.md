@@ -59,7 +59,7 @@ Work in progress :construction_worker: 🛠️
 <img src="git.png" alt="git" width="55"/>
    
 ### Content of Bootcamp:
-<img src="HTML5.svg" alt="HTML5" width="60"/> <img src="CSS.svg" alt="CSS" width="60"/> <img src="JavaScript.svg" alt="JavaScript" width="75"/> <img src="React.svg" alt="React" width="60"/>
+<img src="HTML5.svg" alt="HTML5" width="60"/> <img src="CSS.svg" alt="CSS" width="60"/> <img src="scss.svg" alt="SCSS" width="60"/> <img src="JavaScript.svg" alt="JavaScript" width="75"/> <img src="React.svg" alt="React" width="60"/>
    
 ### Tools :dvd:
 <img src="intellijidea.svg" alt="intellijidea" width="40"/>
