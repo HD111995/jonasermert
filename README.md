@@ -1,6 +1,6 @@
 ### Hello from :de:! :smiley: <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="30"/>
 
-<hr></hr>
+<hr style="border: 2px solid"></hr>
 
 ### About me 👋
 My name is <b>Jonas</b>
