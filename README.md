@@ -1,7 +1,5 @@
 ### Hello from :de:! :smiley: <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="30"/>
 
-<hr border: 2px solid"></hr>
-
 ### About me 👋
 My name is <b>Jonas</b>
 
@@ -10,6 +8,8 @@ My name is <b>Jonas</b>
 📡 Once finished I'd like to find a job as Web, Java or Fullstack Developer
 
 🔭 I’m currently working on a Java Spring Thymeleaf Web App
+
+👯 I’m looking to collaborate on Java Intermediate Projects
 
 ⚙️ I use daily: .java, .psd, .html
 
