@@ -16,7 +16,7 @@ My name is <b>Jonas</b>
 
 :calendar: In my free time, I love to cook, play guitar and soccer 
 
-✨ I am eager to learn
+✨ I am eager to learn VueJS and AngularJS
 
 ⚡️ Fun facts: I'm a huge fan of Harry Potter; I always check a second time if I have really locked the door.
 
