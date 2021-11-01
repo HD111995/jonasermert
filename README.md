@@ -27,9 +27,7 @@ My name is <b>Jonas</b>
 <a href="https://www.instagram.com/ermert.jonas/"><img src="instagram.svg" alt="instagram" width="30"/> 
 <a href="https://www.linkedin.com/in/jonas-ermert-b5266b182/"><img src="linkedin.svg" alt="linkedin" width="30"/>
 <a href="https://www.twitch.tv/jonasermert"><img src="twitch.svg" alt="twitch" width="30"/>
-<a href="https://www.tumblr.com/blog/jonasermert"><img src="tumblr.svg" alt="tumblr" width="30"/>
 <a href="https://www.youtube.com/channel/UCJZhignMtLcP6F_HcSH_ZWA"><img src="youtube.svg" alt="youtube" width="30"/>
-<a href="https://www.reddit.com"><img src="reddit.svg" alt="reddit" width="30"/>
 <a href="https://steamcommunity.com/id/JonasErmert/"><img src="steam.svg" alt="steam" width="30"/>
 
 ### Learn more about me here ⬇
