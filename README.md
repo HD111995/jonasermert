@@ -14,11 +14,11 @@ My name is <b>Jonas</b>
 
 ⚙️ I use daily: .java, .psd, .html
 
-:calendar: In my free time, I love to cook, play guitar and soccer 
+:calendar: In my free time, I love to cook, play guitar, soccer and video games 🎮 
 
-✨ I am eager to learn VueJS and AngularJS
+✨ I am eager to learn VueJS and AngularJS. In my code I pay attention to efficiency, effectiveness and readability
 
-⚡️ Fun facts: I'm a huge fan of Harry Potter; I always check a second time if I have really locked the door.
+⚡️ Fun facts: I'm a huge fan of Harry Potter; I always check a second time if I have really locked the door
 
 ### How to reach me 📫
 
