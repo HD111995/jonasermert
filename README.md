@@ -3,7 +3,7 @@
 ### About me 👋
 My name is <b>Jonas</b>
 
-🌱 I'm learning JOOQ
+🌱 I am continuing my education in Java
 
 :man_teacher:  I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
 
