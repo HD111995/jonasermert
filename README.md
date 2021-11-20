@@ -19,6 +19,10 @@ My name is <b>Jonas</b>
 
 ✨ I am eager to learn VueJS and AngularJS. In my code I pay attention to readability
 
+📫 How to reach me: LinkedIn 
+
+💬 Ask me about Java, Spring, HTML, CSS, SCSS, ReactJS, NodeJS, npm, ExpressJS
+
 ⚡️ Fun facts: I'm a huge fan of Harry Potter; I always check a second time if I have really locked the door
 
 
