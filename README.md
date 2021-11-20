@@ -21,7 +21,7 @@ My name is <b>Jonas</b>
 
 📫 How to reach me: LinkedIn 
 
-💬 Ask me about Java, Spring, HTML, CSS, SCSS, ReactJS, NodeJS, npm, ExpressJS
+💬 Ask me about Java, Spring, HTML, CSS, SCSS, ReactJS, NodeJS, npm, ExpressJS, MySQL, MongoDB
 
 ⚡️ Fun facts: I'm a huge fan of Harry Potter; I always check a second time if I have really locked the door
 
