@@ -5,7 +5,7 @@ My name is <b>Jonas</b>
 
 🌱 I'm learning JOOQ
 
-   I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
+:man_teacher:  I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
 
 📡 Once finished I'd like to find a job as Web, Java or Fullstack Developer
 
