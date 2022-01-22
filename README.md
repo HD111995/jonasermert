@@ -9,7 +9,7 @@ My name is <b>Jonas</b>
 
 📡 Looking for a Job as Developer
 
-🔭 I’m currently working on a Java Spring Thymeleaf Web App
+🔭 I’m currently building a website with Golang
 
 👯 I’m looking to collaborate on Java Intermediate Projects
 
