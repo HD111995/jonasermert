@@ -19,7 +19,9 @@ My name is <b>Jonas</b>
 
 ✨ I am eager to learn VueJS and AngularJS. In my code I pay attention to readability
 
-📫 How to reach me: LinkedIn 
+📫 How to reach me: LinkedIn
+
+🐤 You can find me on Twitter as JonasErmert
 
 💬 Ask me about Java, Spring, JOOQ, HTML, CSS, SCSS, ReactJS, NodeJS, npm, ExpressJS, MySQL, MongoDB
 
