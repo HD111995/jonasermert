@@ -15,6 +15,8 @@ My name is <b>Jonas</b>
 
 ⚙️ I use daily: .java, .psd, .html
 
+🤔 I’m looking for help with ... React
+
 :calendar: In my free time, I love to cook, play guitar, soccer and video games 🎮 
 
 ✨ I am eager to learn VueJS and AngularJS. In my code I pay attention to readability
@@ -24,6 +26,8 @@ My name is <b>Jonas</b>
 🐤 You can find me on Twitter as [JonasErmert](https://twitter.com/JonasErmert)
 
 💬 Ask me about Java, Spring, JOOQ, HTML, CSS, SCSS, ReactJS, NodeJS, npm, ExpressJS, MySQL, MongoDB
+
+😄 Pronouns: ... He/Him
 
 ⚡️ Fun facts: I'm a huge fan of Harry Potter; I always check a second time if I have really locked the door
 
