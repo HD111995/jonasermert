@@ -3,13 +3,13 @@
 ### About me 👋
 My name is <b>Jonas</b>
 
-🌱 I am learning Golang
+🌱 I am learning Project Reactor
 
 :man_teacher:  I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
 
 📡 Looking for a Job as Developer
 
-🔭 I’m currently building a Web Application with Golang
+🔭 I’m currently watching the Udemy Course "Reactive Programming in Modern Java using Project Reactor"
 
 👯 I’m looking to collaborate on Java Intermediate Projects
 
