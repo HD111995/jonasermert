@@ -3,7 +3,7 @@
 ### About me 👋
 My name is <b>Jonas</b>
 
-🌱 I am learning Golang and Swagger
+🌱 I am learning Golang
 
 :man_teacher:  I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
 
