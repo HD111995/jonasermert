@@ -9,7 +9,7 @@ My name is <b>Jonas</b>
 
 📡 Looking for a Job as Developer
 
-🔭 I’m currently watching the Udemy Course "Reactive Programming in Modern Java using Project Reactor"
+🔭 I’m currently watching the Udemy Course "[Oracle Java Certification - Pass the Associate 1Z0-808 Exam](https://www.udemy.com/course/oracle-java-associate-certification-exam-course-1z0-808/learn/lecture/7793122?start=0#overview)"
 
 👯 I’m looking to collaborate on Java Intermediate Projects
 
