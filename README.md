@@ -3,7 +3,7 @@
 ### About me 👋
 My name is <b>Jonas</b>
 
-🌱 I am learning Java
+🌱 I am learning
 
 :man_teacher:  I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
 
