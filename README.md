@@ -3,11 +3,11 @@
 ### About me 👋
 My name is <b>Jonas</b>
 
-🌱 I am learning
+🌱 I am learning ...
 
 :man_teacher:  I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
 
-📡 Looking for a Job as Developer
+📡 Looking for ...
 
 🔭 I’m currently watching the Udemy Course "[Oracle Java Certification - Pass the Associate 1Z0-808 Exam](https://www.udemy.com/course/oracle-java-associate-certification-exam-course-1z0-808/learn/lecture/7793122?start=0#overview)"
 
