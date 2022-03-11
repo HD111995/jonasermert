@@ -3,13 +3,13 @@
 ### About me 👋
 My name is <b>Jonas</b>
 
-🌱 I am learning ...
+🌱 I am learning Java, React
 
 :man_teacher:  I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
 
-📡 Looking for ...
+📡 Looking for Job as Developer
 
-🔭 I’m currently watching ...
+🔭 I’m currently watching "React Tutorial and Projects Course" from John Smilga on Udemy
 
 👯 I’m looking to collaborate on Java Intermediate Projects
 
