@@ -34,7 +34,7 @@ My name is <b>Jonas</b>
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasermert&repo=github-readme-stats)](https://github.com/jonasermert)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasermert)](https://github.com/jonasermert)
 
 
 
