@@ -15,7 +15,7 @@ My name is <b>Jonas</b>
 
 ⚙️ I use daily: .java, .psd, .html
 
-🤔 I’m looking for help with ... Spring WebFlux
+🤔 I’m looking for help with ... Spring Framework
 
 :calendar: In my free time, I love to cook, play guitar, soccer and video games 🎮 
 
