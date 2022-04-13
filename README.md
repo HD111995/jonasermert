@@ -33,7 +33,7 @@ My name is <b>Jonas</b>
 
 
 
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=cobalt)
+![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasermert&show_icons=true&theme=onedark)
 
 
 
