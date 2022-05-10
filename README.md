@@ -9,7 +9,7 @@ My name is <b>Jonas</b>
 
 📡 Looking for Job as Developer
 
-🔭 I’m currently watching "React Tutorial and Projects Course" from John Smilga on Udemy
+🔭 I’m currently watching "Complete Kotlin development masterclass" from Catalin Stefan on Udemy
 
 👯 I’m looking to collaborate on Java Intermediate Projects
 
